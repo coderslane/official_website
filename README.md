@@ -1,2 +1,2 @@
 # official_website
-I mdae this website for learning purpose 
+I made this website for learning purpose
